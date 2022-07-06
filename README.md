@@ -1,1 +1,2 @@
-# trabalho2.1
+# trabalho02
+Segundo trabalho do primeiro semestre de Desenvolvimento Web
